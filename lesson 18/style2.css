@@ -24,10 +24,10 @@
 
 
 @keyframes bounce {
-    to {
+    to{
         width: 200px;
         height: 200px;
-        transform: translate(0,-50px,0);
+        transform: translate3d(0,-50px,0);
     }
     
 }
